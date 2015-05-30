@@ -1,0 +1,7 @@
+*.xcuserstate
+*.xcscheme
+*.xccheckout
+*.xcuserstate
+*/xcuserdata/*
+Podfile.lock
+Pods/*
